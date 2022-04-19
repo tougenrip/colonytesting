@@ -218,8 +218,8 @@ function App() {
               backgroundColor: "var(--accent)",
               padding: 24,
               borderRadius: 24,
-              border: "4px dashed var(--secondary)",
-              boxShadow: "0px 5px 11px 2px rgba(0,0,0,0.7)",
+              border: "4px solid var(--secondary)",
+              boxShadow: "0px 5px 11px 2px var(--secondary)",
             }}
           >
             <s.TextTitle
