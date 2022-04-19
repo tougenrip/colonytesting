@@ -194,6 +194,7 @@ function App() {
   }, [blockchain.account]);
 
   return (
+      
     <s.Screen>
       <s.Container
         flex={1}
@@ -433,6 +434,7 @@ function App() {
         </s.Container>*/}
       </s.Container>
     </s.Screen>
+
   );
 }
 
