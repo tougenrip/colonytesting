@@ -6,9 +6,9 @@
     "SYMBOL": "Matic",
     "ID": 80001
   },
-  "NFT_NAME": "The Yogi NFT",
+  "NFT_NAME": "The Yogies",
   "SYMBOL": "YOGI",
-  "MAX_SUPPLY": 200,
+  "MAX_SUPPLY": 1000,
   "WEI_COST": 80000000000000000000,
   "DISPLAY_COST": 80,
   "GAS_LIMIT": 285000,
