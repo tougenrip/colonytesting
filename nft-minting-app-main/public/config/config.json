@@ -9,10 +9,10 @@
   "NFT_NAME": "The Yogi NFT",
   "SYMBOL": "YOGI",
   "MAX_SUPPLY": 200,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "WEI_COST": 80000000000000000000,
+  "DISPLAY_COST": 80,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/finaltestcolony",
   "SHOW_BACKGROUND": true
 }
