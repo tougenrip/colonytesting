@@ -219,7 +219,7 @@ function App() {
               padding: 24,
               borderRadius: 24,
               border: "4px solid var(--secondary)",
-              boxShadow: "0px 5px 11px 2px var(--secondary)",
+              boxShadow: "0px 0px 21px 2px var(--secondary)",
             }}
           >
             <s.TextTitle
