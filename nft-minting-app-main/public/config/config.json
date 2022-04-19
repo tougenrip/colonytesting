@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xf81B9CBb0f7434eC458e788112883e482eA4e5c0",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xf81b9cbb0f7434ec458e788112883e482ea4e5c0",
+    "CONTRACT_ADDRESS": "0xf66c08eE2f14Db2B0b2e3DbB8a171CC2FB397485",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xf66c08eE2f14Db2B0b2e3DbB8a171CC2FB397485",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 80001
   },
-  "NFT_NAME": "The Colony NFT",
-  "SYMBOL": "CLNTFF",
+  "NFT_NAME": "The Yogi NFT",
+  "SYMBOL": "YOGI",
   "MAX_SUPPLY": 200,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/colonytestingfinalfinal",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/finaltestcolony",
   "SHOW_BACKGROUND": true
 }
